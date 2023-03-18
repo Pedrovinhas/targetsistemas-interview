@@ -1,0 +1,7 @@
+# common files
+/node_modules/
+.DS_Store
+
+# ignore .lock
+yarn.lock
+package.lock
